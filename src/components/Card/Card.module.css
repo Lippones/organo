@@ -1,0 +1,35 @@
+.container{
+    width: 280px;
+    margin-top: 40px;
+}
+.header{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px 10px 0px 0px;
+}
+.header img{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 100px;
+    position: relative;
+    bottom: -50px;
+}
+.footer{
+    background-color: #F0F0F0;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0 0 10px 10px;
+    padding-bottom: 40px;
+    padding-top: 90px;
+}
+.footer h4{
+    color: #6278f7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.footer h5{
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}

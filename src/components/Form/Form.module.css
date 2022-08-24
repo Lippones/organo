@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin:15vh 0;
+}
+.container form{
+    background: #F7F7F7;
+    max-width: 80%;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    padding: 8vh 5vw;
+}
+.titulo{
+    font-size:2rem;
+    font-family: 'Prata', serif;
+    font-weight: 400;
+}
+.container form input[id="Time"]{
+    margin-bottom: 5vh;
+}
